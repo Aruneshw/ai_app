@@ -1,0 +1,6 @@
+{
+  "name": "Priority Planner",
+  "description": "Offline personal schedule and priority assistant for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
